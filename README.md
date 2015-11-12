@@ -1,3 +1,5 @@
+deployed at http://nodevembermsb2a6.azurewebsites.net/
+
 # Nodevember Azure Code Challenge
  
  ![Nodevember Logo](/images/logo.png)
